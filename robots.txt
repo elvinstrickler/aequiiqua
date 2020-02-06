@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oongoezoor.ctrl-f5.ru/sitemap.xml
